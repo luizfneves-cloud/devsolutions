@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 5;
+    box-sizing: border-box;
+}
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: azure;
+    }
+
+    .funcionalidades {
+        padding: 20px;
+    }
+
+    .funcionalidades h2 {
+        color: crimson;
+    }
+
+    .secao-principal h1 {
+        color: red;
+    }
+
